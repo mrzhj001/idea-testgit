@@ -46,4 +46,8 @@ public class User {
         System.out.println("idea 测试远程仓库的提交功能");
         System.out.println("第二次测试远程仓库的提交功能");
     }
+    
+     public static void test() {
+        System.out.println("在远程修改了功能");
+    }
 }
