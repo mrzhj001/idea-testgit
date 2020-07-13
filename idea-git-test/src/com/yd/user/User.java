@@ -50,4 +50,9 @@ public class User {
      public static void test() {
         System.out.println("在远程修改了功能");
     }
+
+    public   static void  updateUser(){
+
+        System.out.println("添加了一个添加用户的功能来测试远程仓库的提交功能");
+    }
 }
